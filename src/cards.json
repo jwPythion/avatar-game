@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "assets/images/aanglemur.jpg",
+        "name": "Aang & Momo"
+    },
+    {
+        "id": 2,
+        "image": "assets/images/avataraang.jpg",
+        "name": "Avatar Aang"
+    },
+    {
+        "id": 3,
+        "image": "assets/images/avatars.jpg",
+        "name": "Avatars"
+    },
+    {
+        "id": 4,
+        "image": "assets/images/azula.jpg",
+        "name": "Azula"
+    },
+    {
+        "id": 5,
+        "image": "assets/images/cabbageguy.jpg",
+        "name": "Cabbage Dude"
+    },
+    {
+        "id": 6,
+        "image": "assets/images/gaang.jpg",
+        "name": "Gaang"
+    },
+    {
+        "id": 7,
+        "image": "assets/images/katara.jpg",
+        "name": "Katara"
+    },
+    {
+        "id": 8,
+        "image": "assets/images/rishi.jpg",
+        "name": "Rishi"
+    },
+    {
+        "id": 9,
+        "image": "assets/images/zuko.jpg",
+        "name": "Zuko"
+    }
+
+
+
+]
